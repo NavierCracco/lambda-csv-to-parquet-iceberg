@@ -1,4 +1,4 @@
-# AWS Lambda: CSV to Parquet (Iceberg)
+# CSV to Parquet (Iceberg) on AWS Lambda
 
 Este proyecto convierte tablas `landing_` del Glue Data Catalog en tablas Iceberg en formato Parquet usando Athena.
 
